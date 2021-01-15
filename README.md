@@ -1,17 +1,7 @@
-**How to download and install the Globe Studios Hub**
+[HEAD TO HERE FOR INSTRUCTIONS:](https://github.com/bobster-discord/globe-studios-hub/wiki)
 
-**Step 1:** Download the .zip file from the link below
+This is the Github Repository for the Globe Studios Hub, We have created a [Wiki](https://github.com/bobster-discord/globe-studios-hub/wiki) where you can find the downloading & installation of the application, plus how we created it.
 
-**Step 2:** Unzip the file to anywhere on your computer
+This was a project for **Globe Studios** and still currently is, If you would like to edit this please message myself on discord (RepublicPotato#0001) or by joining the [Bobster JS Group Discord](https://discord.gg/BW4h2TaBK5).
 
-**Step 3:** Navigate to where you unzipped the file and open the foler
-
-**Step 4:** Inside the folder you will see many different files, the only one you need is "GlobeStudiosHub.exe" (If you delete any other files it could break the app)
-
-**Step 5:** When you run the file for the first time you may get a warning, but the file is safe!
-
-**Step 6:** Navigate around and enjoy
-
-*Also: This app currently has discord's rich presence built in, so clicking a button on the site will change your rich presence*
-
-Copyright of BobsterJS Group & Globe Studios | All rights reserved
+All source code will be available soon so your able to edit it.
